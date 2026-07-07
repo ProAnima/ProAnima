@@ -36,13 +36,13 @@ We work at the intersection of AI automation, production engineering, Unity rese
 | **Creator products** | Writing tools, knowledge bases, codex systems, wiki editors, document workflows, AI workspaces. |
 | **Game technology** | Unity R&D, procedural generation, life simulation, AI NPCs, VFX/audio systems, internal worlds. |
 
-## Featured Projects
+## Current Work
 
-- [ProAnima Studio Site](https://github.com/ProAnima/ProAnimaStudio-site) - multilingual static website for the studio.
-- [Kodeks Nexus](https://github.com/ProAnima/Kodeks-Nexus) - AI workspace for codexes, wikis, and knowledge bases.
-- [ProWrite Studio](https://github.com/ProAnima/ProWrite-Studio) - writing and worldbuilding environment.
-- [Unity Version Control MCP](https://github.com/ProAnima/unity-version-control-mcp) - MCP server for Unity Version Control / Plastic SCM workflows.
-- [Royal Beton](https://github.com/ProAnima/royal-beton.ru) - commercial web automation example.
+- Public studio website and product hub for ProAnima.
+- AI-assisted workflows for documents, knowledge bases, and creative production.
+- Automation systems for deployment, diagnostics, monitoring, and release control.
+- Realtime AI experiments for Unity, computer vision, and interactive installations.
+- Internal tools for narrative worlds, procedural systems, and game technology.
 
 ## Principles
 
